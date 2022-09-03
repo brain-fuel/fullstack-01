@@ -20,7 +20,7 @@ I'm Matt Laine, and I've been looking forward to putting this course together si
 ***** TODO Bird Rating?
 **** TODO User that wants to make custom courses
 ***** TODO Course Rating?
-** TODO Tools & Principles
+** Tools & Principles
 - Clarifying Requirements
 - Front-End Development
 - Back-End Development
