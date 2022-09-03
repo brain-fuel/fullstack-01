@@ -2,7 +2,7 @@
 ** TODO Empowerment Promise / Vision
 I'm Matt Laine, and I've been looking forward to putting this course together since 2019. For a long time, I've thought that ordinary people, not just folks who have a highly technical background, should be able to write computer programs and make their lives easier. Yet, after spending tens of thousands of dollars on books and courses, I've still not found anything that can take you from being a complete beginner to being able to code a complex application based upon user requirements, and deploying it to the Cloud and to the App Store. That's why I wrote this course from scratch. I wanted you to be able to get the best experience learning software development and exploring what computers can do for you, while giving you basic skills to prepare you for a career in tech.
 - At the end of this course, you will be able to write a full-stack web, and mobile application from scratch and deploy it to the Cloud and to the App Store.
-- At the end of this course, you will gain knowledge of some fundamental computing tools and principles that will increase your chances of success. You can find these tools in the [[tools-and-principles][Tools & Principles]]  section of this page.
+- At the end of this course, you will gain knowledge of some fundamental computing tools and principles that will increase your chances of success. You can find these tools in the [[#tools-and-principles][Tools & Principles]]  section of this page.
 - At the end of this course, you will have learned a new way to look at business and develop technological solutions to business problems, opening up new horizons for you in both business and software development.
 ** TODO News
 ** TODO Brief Overview of Steps
